@@ -6,34 +6,34 @@ class App{
             {   
                 "Brand": " Acer Aspire E5-571G-750T ",
                 "Price": " ₱ 33,949.00",
-                "Image": "img/Acer.png",
+                "Image": "http://ph-live-02.slatic.net/p/2/acer-aspire-e5-571g-750t-15-6-intel-core-i7-4510u-4gb-gaming-laptop-windows-10-with-free-acer-backpack-3445-7078314-f7dcfe3f6d2f7ddb920fa7a68f5d5a0e-webp-zoom.jpgg"
             },
             {
                 "Brand": " Dell XPS ",
                 "Price": " ₱ 79,999.00",
-                "Image": "img/Dell.png "
+                "Image": "http://www.notebookcheck.net/fileadmin/Notebooks/Dell/XPS_13-9343_Non-Touch/xps13.png"
             },
             {   
                 "Brand": " MSI GP62 2QD LEOPARD ",
                 "Price": " ₱ 38,208.00 ",
-                "Image": "img/MSI.png"
+                "Image": "https://www.msi.com/asset/resize/image/global/product/five_pictures7_3467_2015052917200155682f41c0e01.png62405b38c58fe0f07fcef2367d8a9ba1/600.png"
             },
             {
                 "Brand": " Asus ROG ",
                 "Price": " ₱ 170,499.00 ",
-                "Image": "img/Asusrog.png"
+                "Image": "http://ph-live-01.slatic.net/p/2/asus-rog-g501vw-fi054t-15-6-intel-core-i7-6700hq-8gb-4gb-black-0754-8962308-a38d0d97f165bbc3b9ebe6bd1b82a942-webp-zoom.jpg"
 
             },
             {
                 "Brand": " Alienware 17R3-1675SLV ",
                 "Price": " ₱ 120,000.00 ",
-                "Image": "img/Alienware.png"
+                "Image": "http://ph-live-02.slatic.net/p/2/alienware-17r3-1675slv-17-3-intel-core-i7-6700hq-8-gb-ddr3-1-tb-hdd-nvidia-gtx970m-silver-windows-10-with-free-laptop-bag-7937-2196115-9d24a0607f9ef75aa7306f8d7b467eb2-webp-zoom.jpg"
 
             },
             {
                 "Brand": " Lenovo IdeaPad ",
                 "Price": " ₱ 38,499.00 ",
-                "Image": "img/Lenovo.png"
+                "Image": "http://ph-live-01.slatic.net/p/2/lenovo-ideapad-u31-70-80m500g8ph-13-3-intel-core-i5-5200u-4gb-laptop-with-free-lenovo-backpack-9687-3946964-c2264a1021d9cfdbf6466bc82124bfe0-webp-zoom.jpg"
             }
         ];
         this.cart = [];
